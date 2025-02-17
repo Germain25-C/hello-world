@@ -4,7 +4,6 @@ public class HelloWorld
    {
    
    System.out.print("Hello World");
-   System.out.print("\nProgram modified, but able to revert to original version using GitHub Desktop");
    
    }
 }
